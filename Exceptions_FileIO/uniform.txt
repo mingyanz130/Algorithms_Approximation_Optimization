@@ -1,6 +1,0 @@
-AB BC CD
-DE EF FG
-ab bc cd
-de ef fg
-AB BC CD
-DE EF FG
