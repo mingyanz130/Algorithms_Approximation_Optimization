@@ -1,0 +1,116 @@
+11/02/18 17:31
+
+markov_chains.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+11/05/18 17:29
+
+markov_chains.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+11/07/18 15:41
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+SentenceGenerator (20 points):
+NotImplementedError: Problem 5 Incomplete
+
+Code Quality (5 points):
+Add comments
+Score += 0
+
+Total score: 25/50 = 50.0%
+
+-------------------------------------------------------------------------------
+
+11/08/18 09:39
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+SentenceGenerator (20 points):
+Add comments to code
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 45/50 = 90.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
+11/12/18 17:55
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+SentenceGenerator (20 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 45/50 = 90.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
+11/12/18 17:56
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+SentenceGenerator (20 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 45/50 = 90.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

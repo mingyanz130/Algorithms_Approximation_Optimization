@@ -1,0 +1,191 @@
+09/13/18 15:16
+
+TabError while loading 'object_oriented.py': inconsistent use of tabs and spaces in indentation (object_oriented.py, line 36)
+
+-------------------------------------------------------------------------------
+
+09/14/18 17:20
+
+TabError while loading 'object_oriented.py': inconsistent use of tabs and spaces in indentation (object_oriented.py, line 36)
+
+-------------------------------------------------------------------------------
+
+09/17/18 17:26
+
+Problem 1 (10 points):
+No output
+ValueError: operands could not be broadcast together with shapes (2,) (3,) 
+
+Problem 2 (10 points):
+AttributeError: module 'MingyanZhao.ObjectOriented.object_oriented' has no attribute 'Jetpack'
+
+Problem 3 (10 points):
+Backpack.__eq__() failed (equal objects)
+Backpack.__eq__() failed (equal objects)
+Output incorrect Return string, not object
+Return string, not object
+Score += 3
+
+Problem 4 (15 points):
+AttributeError: module 'MingyanZhao.ObjectOriented.object_oriented' has no attribute 'ComplexNumber'
+
+Code Quality (5 points):
+AttributeError: module 'MingyanZhao.ObjectOriented.object_oriented' has no attribute 'ComplexNumber'
+
+Total score: 3/50 = 6.0%
+
+
+Comments:
+	If you need help, come to office hours
+
+-------------------------------------------------------------------------------
+
+09/19/18 00:54
+
+Problem 1 (10 points):
+No output for room given
+ValueError: operands could not be broadcast together with shapes (2,) (3,) 
+
+Problem 2 (10 points):
+ValueError: operands could not be broadcast together with shapes (3,) (0,) 
+
+Problem 3 (10 points):
+TypeError: __str__ returned non-string (type NoneType)
+
+Problem 4 (15 points):
+ComplexNumber.__div__() failed on real part
+	Correct response: 0.215385
+	Student response: 0
+ComplexNumber.__div__() failed on imag part
+	Correct response: 1.223077
+	Student response: 1
+Score += 13
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 18/50 = 36.0%
+
+
+Comments:
+	If you need help, come to office hours
+
+-------------------------------------------------------------------------------
+
+09/19/18 17:26
+
+Problem 1 (10 points):
+No output printed
+ValueError: operands could not be broadcast together with shapes (2,) (3,) 
+
+Problem 2 (10 points):
+ValueError: operands could not be broadcast together with shapes (3,) (0,) 
+
+Problem 3 (10 points):
+TypeError: __str__ returned non-string (type NoneType)
+
+Problem 4 (15 points):
+ComplexNumber.__div__() failed on real part
+	Correct response: -0.871951
+	Student response: 0
+ComplexNumber.__div__() failed on imag part
+	Correct response: -0.152439
+	Student response: 0
+Score += 13
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 18/50 = 36.0%
+
+
+Comments:
+	Final pull at 9AM tomorrow
+
+-------------------------------------------------------------------------------
+
+09/19/18 17:47
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+ValueError: operands could not be broadcast together with shapes (3,) (0,) 
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (15 points):
+ComplexNumber.__div__() failed on real part
+	Correct response: 0.575
+	Student response: 0
+ComplexNumber.__div__() failed on imag part
+	Correct response: -1.0875
+	Student response: -1
+Score += 13
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 38/50 = 76.0%
+
+
+Comments:
+	Final pull tomorrow at 9AM
+
+-------------------------------------------------------------------------------
+
+09/19/18 23:54
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+
+Comments:
+	Great job!
+
+-------------------------------------------------------------------------------
+
+09/20/18 10:58
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+
+Comments:
+	Great job!
+
+-------------------------------------------------------------------------------
+

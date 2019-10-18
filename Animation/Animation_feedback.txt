@@ -1,0 +1,48 @@
+02/19/19 18:16
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+make sure to display your animation in the jupyter notebook
+Score += 0
+
+Problem 4 (5 points):
+Score += 0
+
+Problem 5 (10 points):
+Score += 0
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 15/40 = 37.5%
+
+-------------------------------------------------------------------------------
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+Comments:  
+
+
