@@ -1,0 +1,6 @@
+Cd bc Ab
+fg Ef de
+Cd bc Ab
+fg Ef de
+de Ef fg
+Ab bc Cd

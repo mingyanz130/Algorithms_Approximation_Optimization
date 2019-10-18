@@ -1,0 +1,81 @@
+03/01/19 14:09
+
+simplex.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+03/05/19 15:22
+
+simplex.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+03/06/19 16:46
+
+Problems 1-6 (35 points):
+AxisError: axis 1 is out of bounds for array of dimension 1
+
+Problem 7 (10 points):
+NotImplementedError: Problem 7 Incomplete
+
+Code Quality (5 points):
+Code can be improved for prob7()
+Score += 0
+
+Total score: 0/50 = 0.0%
+
+-------------------------------------------------------------------------------
+
+03/12/19 15:09
+
+Problems 1-6 (35 points):
+AxisError: axis 1 is out of bounds for array of dimension 1
+
+Problem 7 (10 points):
+NotImplementedError: Problem 7 Incomplete
+
+Code Quality (5 points):
+ no code, printed out values
+Score += 0
+
+Total score: 0/50 = 0.0%
+
+-------------------------------------------------------------------------------
+
+03/13/19 14:29
+
+Problems 1-6 (35 points):
+AxisError: axis 1 is out of bounds for array of dimension 1
+
+Problem 7 (10 points):
+NotImplementedError: Problem 7 Incomplete
+
+Code Quality (5 points):
+no code, printed values
+Score += 0
+
+Total score: 0/50 = 0.0%
+
+-------------------------------------------------------------------------------
+
+03/14/19 11:58
+
+Problems 1-6 (35 points):
+Incorrect Dictionary
+	Correct response: {0: 1.6, 1: 0.19999999999999982, 2: 0.5999999999999996}
+	Student response: {2: 0.6, 0: 1.6, 1: 0.2}
+Score += 33
+
+Problem 7 (10 points):
+Incorrect maximizer
+	Correct response: [10.     6.193 12.     1.789]
+	Student response: [10.     6.193 12.     1.789]
+Score += 0
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 38/50 = 76.0%
+
+-------------------------------------------------------------------------------
+
